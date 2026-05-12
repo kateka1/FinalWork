@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IT_in_PA\\25VVV4\\6_IK\\FinalWork\\laba6.1 orig\\",
+  "WorkspaceRootPath": "D:\\IT_in_PA\\25VVV4\\6_IK\\FinalWork_Roma\\laba6.1 orig\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D39F18D-D28B-447A-AECF-6AE43B7F61FF}|laba6.1\\laba6.1.vcxproj|D:\\IT_in_PA\\25VVV4\\6_IK\\FinalWork\\laba6.1 orig\\laba6.1\\laba6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3D39F18D-D28B-447A-AECF-6AE43B7F61FF}|laba6.1\\laba6.1.vcxproj|D:\\IT_in_PA\\25VVV4\\6_IK\\FinalWork_Roma\\laba6.1 orig\\laba6.1\\laba6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D39F18D-D28B-447A-AECF-6AE43B7F61FF}|laba6.1\\laba6.1.vcxproj|solutionrelative:laba6.1\\laba6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -68,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "laba6.1.cpp",
-              "DocumentMoniker": "D:\\IT_in_PA\\25VVV4\\6_IK\\FinalWork\\laba6.1 orig\\laba6.1\\laba6.1.cpp",
+              "DocumentMoniker": "D:\\IT_in_PA\\25VVV4\\6_IK\\FinalWork_Roma\\laba6.1 orig\\laba6.1\\laba6.1.cpp",
               "RelativeDocumentMoniker": "laba6.1\\laba6.1.cpp",
-              "ToolTip": "D:\\IT_in_PA\\25VVV4\\6_IK\\FinalWork\\laba6.1 orig\\laba6.1\\laba6.1.cpp",
+              "ToolTip": "D:\\IT_in_PA\\25VVV4\\6_IK\\FinalWork_Roma\\laba6.1 orig\\laba6.1\\laba6.1.cpp",
               "RelativeToolTip": "laba6.1\\laba6.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-13T22:29:15.071Z",
               "EditorCaption": ""
