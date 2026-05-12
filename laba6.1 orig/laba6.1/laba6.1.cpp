@@ -10,7 +10,8 @@ int main() {
     SetConsoleOutputCP(1251);
 
     int A[20];
-    int m11, m2; /*было m1*/
+    int m11; /*было m1*/
+    int m2;
 
     // Объявление указателей
     int* ptr_A = A;     // Указатель на начало массива A
